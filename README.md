@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer at [Open Government Products](https://www.open.gov.sg/) - building tech for public good.
+I am a Senior Software Engineer at [Open Government Products](https://www.open.gov.sg/) - building tech for public good. The products I work on include [Care360](https://products.open.gov.sg/care360) and [Scribe](https://hack.gov.sg/hack-for-public-good-2024/2024-projects/scribe/).
 
 As a student, I worked on conversational NLP and was involved in projects such as [ConvoKit](https://github.com/CornellNLP/ConvoKit), an open-source Python toolkit for conversational analysis, and [Chirpy Cardinal](https://stanfordnlp.github.io/chirpycardinal/), Stanford's chatbot for the Amazon Alexa Prize Competition. I also worked on data-centric AI previously at [Cleanlab](https://cleanlab.ai/), building things like [Cleanlab Studio](https://app.cleanlab.ai) and [Cleanlab Vizzy](https://playground.cleanlab.ai).
 
