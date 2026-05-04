@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer at [Open Government Products](https://www.open.gov.sg/) - building tech for public good. The products I've worked on include [Care360](https://reports.open.gov.sg/care360/overview), [Scribe](https://reports.open.gov.sg/scribe/overview), [Social360](https://reports.open.gov.sg/social360/metrics), [Telescope](https://telescope.gov.sg), and [Peek](https://www.hack.gov.sg/2026/peek/).
+I am a Lead Software Engineer at [Open Government Products](https://www.open.gov.sg/) - building tech for public good. The products I've worked on include [Care360](https://reports.open.gov.sg/care360/overview), [Scribe](https://reports.open.gov.sg/scribe/overview), [Social360](https://reports.open.gov.sg/social360/metrics), [Telescope](https://telescope.gov.sg), and [Peek](https://www.hack.gov.sg/2026/peek/).
 
 I was prevously a founding engineer at [Cleanlab](https://github.com/cleanlab/cleanlab) working on data-centric AI, where I built their flagship SaaS product, [Cleanlab Studio](https://menlovc.com/perspective/hardening-the-data-moat-our-investment-in-cleanlab/). (Cleanlab has since been acquired by Handshake.)
 
